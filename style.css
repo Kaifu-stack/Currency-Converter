@@ -70,7 +70,8 @@ form input {
 
 form button {
     height: 3rem;
-    background-color: aquamarine;
+    background-color: rgb(214, 75, 189);
     cursor: pointer;
-    border-color: aquamarine;
+    font-size: 1rem;
+    color: white;
 }
